@@ -10,11 +10,7 @@ export const Home = () =>{
         
 
             <p className="text-gray-400 text-lg mb-8 max-w-lg mx-auto">
-
-                Sou estudante de Ciência da Computação na Universidade Federal de São João del-Rei (UFSJ) e atualmente estou no segundo período do curso. 
-                Tenho me dedicado a construir uma base sólida em programação, algoritmos e estruturas de dados, com foco especial em linguagens como C e JavaScript. 
-                Gosto de explorar na prática o que aprendo em sala de aula, seja através de projetos acadêmicos ou iniciativas pessoais. 
-                Estou especialmente interessado em desenvolvimento web e inteligência artificial, e busco constantemente novos desafios para crescer como desenvolvedor e profissional da área de tecnologia.
+                Sou estudante de Ciência da Computação na Universidade Federal de São João del-Rei (UFSJ) e atualmente estou no segundo período do curso. Tenho me dedicado a construir uma base sólida em programação, algoritmos e estruturas de dados, com foco especial em linguagens como C e JavaScript. 
             </p>
             <div className="flex justify-center space-x-4">
                 <a href="#projects" className="bg-blue-500 text-white py-3 px-6 rounded font-medium transition relative overflow-hidden hover:-translate-y-0.5 hover:shadow-[0_0_15px_rgba(59,130,246,0.4)]">

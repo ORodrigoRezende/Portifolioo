@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 
 export const LoadingScreen = ({ onComplete }) => {
     const [text, setText] = useState("");
-    const fullText= "<Hellow World />" ;  //Animação inicio da tela
+    const fullText= "< Aopa,bão? />" ;  //Animação inicio da tela
 
     useEffect(()=>{
         let index = 0;

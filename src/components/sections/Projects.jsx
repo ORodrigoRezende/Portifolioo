@@ -13,7 +13,8 @@ export const Projects = () =>{
                         Projeto Sorveteria
                     </h3>
                     <p className="text-gray-400 mb-4">
-                        Projetoss...
+                    Um sistema web completo para automatizar e otimizar as operações de uma sorveteria, utilizando tecnologias como Java, HTML, CSS, JavaScript e MySQL. 
+                    O sistema foi implantado com sucesso e gerencia estoque, vendas, clientes e gera relatórios.
                     </p>
                     <div className="flex flex-wrap gap-2 mb-4">
                         {["Java","Javascript","Bootstrap","mySQL","HTML","CSS"].map((tech,key)=>(
@@ -25,7 +26,7 @@ export const Projects = () =>{
                         ))}
                     </div>
                     <div className="flex justify-between items-center">
-                        <a href="#" className="text-blue-400 hover:text-blue-300 transition-colors my-4"> Olhar Projeto</a>
+                        <a href="https://github.com/ORodrigoRezende/ProjetoSorveteria" target="_blank" className="text-blue-400 hover:text-blue-300 transition-colors my-4"> Ver Projeto</a>
                     </div>
                 </div>
                 <div className="p-6 rounded-xl border border-white/10 hover:-translate-y-1 hover:border-blue-500/30 hover:shadow-[0_2px_8px_rgba(59,130,246,0.2)] transition">
@@ -33,7 +34,7 @@ export const Projects = () =>{
                         Space Invaders
                     </h3>
                     <p className="text-gray-400 mb-4">
-                        Projetoss...
+                    Este projeto consiste na recriação do clássico jogo arcade Space Invaders (1978) utilizando a linguagem C e a biblioteca Raylib, uma biblioteca simples e fácil de usar para desenvolvimento de jogos.
                     </p>
                     <div className="flex flex-wrap gap-2 mb-4">
                         {["C","raylib.h",].map((tech,key)=>(
@@ -45,7 +46,7 @@ export const Projects = () =>{
                         ))}
                     </div>
                     <div className="flex justify-between items-center">
-                        <a href="#" className="text-blue-400 hover:text-blue-300 transition-colors my-4"> Olhar Projeto</a>
+                        <a href="https://github.com/ORodrigoRezende/SpaceInvaders" target="_blank" className="text-blue-400 hover:text-blue-300 transition-colors my-4"> Ver Projeto</a>
                     </div>
                 </div>
             </div>

@@ -4,14 +4,15 @@ export const About = () =>{
 
     const frontendSkills = [
         "React",
-        "htmll",
+        "html",
         "CSS"
     ];
 
     const backendSkills = [
         "Java",
         "Python",
-        "Teste"
+        "C",
+        "C++"
     ];
 
 
